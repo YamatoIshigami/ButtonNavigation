@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu" android:icon="@drawable/ic_baseline_android_24" android:title="Menu"></item>
+    <item android:id="@+id/search" android:icon="@drawable/ic_baseline_search_24" android:title="Search"></item>
+    <item android:id="@+id/contact" android:icon="@drawable/ic_baseline_contacts_24" android:title="Contact"></item>
+    <item android:id="@+id/settings" android:icon="@drawable/ic_baseline_settings_24" android:title="Settings"></item>
+</menu>
